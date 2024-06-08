@@ -2,7 +2,7 @@ Project Title - Web Content Extractor and Text Analysis
 
 This project offers a powerful framework for extracting and analyzing text data from web pages. It caters to various use cases where understanding the content and sentiment of online resources is crucial.
 
-Functionalities
+Functionalities:
 
 Web Content Extraction: Efficiently retrieve and parse text from a list of URLs.
 
@@ -26,13 +26,18 @@ Informative Text Metrics: Quantify your textual data and gain valuable understan
 Detailed Readability Analysis: Assess the text's readability to tailor your content for specific audiences.
 
 
-Requirements
+Requirements:
 
 Python 3.x (https://www.python.org/downloads/)
+
 requests library (pip install requests)
+
 beautifulsoup4 library (pip install beautifulsoup4)
+
 pandas library (pip install pandas)
+
 nltk library (pip install nltk)
+
 re (regular expressions) module - included in Python
 Setup
 
