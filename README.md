@@ -38,7 +38,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/your-repo-name.git
+git clone (https://github.com/HimanshuRajput013/Web_Scrapping_from_Balck_coffer/blob/main/Blackcoffer_Text_Analysis.ipynb)
 cd your-repo-name
 
 Install the required Python packages:
