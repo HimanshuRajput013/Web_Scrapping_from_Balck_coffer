@@ -5,17 +5,27 @@ This project offers a powerful framework for extracting and analyzing text data 
 Functionalities
 
 Web Content Extraction: Efficiently retrieve and parse text from a list of URLs.
+
 Text Cleaning: Prepares the extracted text for analysis by removing unnecessary characters, stopwords (common, uninformative words), and punctuation.
+
 Sentiment Analysis: Assigns sentiment scores to the cleaned text, including positive, negative, polarity (overall sentiment), and subjectivity (opinionated vs. factual).
+
 Text Metrics: Computes valuable metrics to gain insights into the text's composition, such as the number of words and sentences.
+
 Readability Analysis: Analyzes factors that affect how easily the text can be understood. This includes average sentence length, percentage of complex words (Flesch-Kincaid grade level), Fog Index, syllables per word, personal pronoun count, and average word length.
 Features
 
 Seamless Web Content Extraction: Retrieve and parse text content from specified URLs with ease.
+
 Enhanced Text Cleaning: Ensure optimal data quality by removing unnecessary elements.
+
 In-Depth Sentiment Analysis: Gain comprehensive sentiment insights into the extracted text.
+
 Informative Text Metrics: Quantify your textual data and gain valuable understanding.
+
 Detailed Readability Analysis: Assess the text's readability to tailor your content for specific audiences.
+
+
 Requirements
 
 Python 3.x (https://www.python.org/downloads/)
@@ -25,6 +35,7 @@ pandas library (pip install pandas)
 nltk library (pip install nltk)
 re (regular expressions) module - included in Python
 Setup
+
 
 Clone the Repository:
 
@@ -46,19 +57,25 @@ Use code with caution.
 content_copy
 Download Stopwords and Sentiment Lexicons:
 
+
 Usage:
 
 The specific instructions for using the project will be outlined in the provided code or a separate documentation file. This typically involves steps such as:
 
 Extracting Text Data from URLs
+
 Cleaning Extracted Text
+
 Performing Sentiment Analysis
+
 Calculating Additional Text Metrics
-License
+
+
+License:
 
 This project is licensed under the MIT License, which provides you with considerable freedom to use, modify, and distribute the code under certain conditions (https://opensource.org/license/mit).
 
-Contributing
+Contributing:
 
 We welcome your contributions to this project! Feel free to:
 
