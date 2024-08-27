@@ -1,4 +1,4 @@
-Project Title - Web Content Extractor and Text Analysis
+## Project Title - Web Content Extractor and Text Analysis
 
 This project offers a powerful framework for extracting and analyzing text data from web pages. It caters to various use cases where understanding the content and sentiment of online resources is crucial.
 
